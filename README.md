@@ -1,3 +1,3 @@
 # 100xdevs Cohort-3 Web3 Assignments
 
-## [Notes](https://petal-estimate-4e9.notion.site/ETH-on-the-frontend-1227dfd107358015bb15e3e87367db55)
+## [Notes](https://common-bar-39a.notion.site/WEB3-SLIDES-1782d7cf26164082b56df9699f3ec954?pvs=73)
