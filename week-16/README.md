@@ -5,7 +5,7 @@
 ## Assignment
 ![alt text](<Screenshot 2024-11-22 at 9.01.43 PM.png>)
 
-## Better approach
+## Note
 Please avoid seeing the solution and hint.
 
 
